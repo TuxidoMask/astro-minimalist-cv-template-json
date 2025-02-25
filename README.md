@@ -22,7 +22,7 @@ https://jsonresume.org/schema/
 Basado en el diseño de:
 https://github.com/BartoszJarocki/cv
 
-Alerta de combinación de teclas para impresión
+Menú con atajos de teclas para impresión
 https://github.com/ssleptsov/ninja-keys
 
 🔹 **Edita `/cv.json` para personalizar tu información.**
