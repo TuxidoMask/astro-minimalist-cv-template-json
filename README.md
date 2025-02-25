@@ -19,7 +19,6 @@ Schema del JSON de CV:
 https://jsonresume.org/schema/
 
 Basado en el diseño de:
-![Preview](https://avatars.githubusercontent.com/u/1017620?v=4)
 https://github.com/BartoszJarocki/cv
 
 Alerta de combinación de teclas para impresión
