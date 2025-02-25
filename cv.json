@@ -1,0 +1,270 @@
+{
+    "basics": {
+        "name": "Arturo Salazar",
+        "label": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus commodo sodales nulla.",
+        "image": "/me.webp",
+        "email": "ejemplo@correo.com",
+        "phone": "+00 0123456789",
+        "url": "https://www.lipsum.com/",
+        "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus commodo sodales nulla. Nunc ac justo quis elit suscipit finibus id non neque. Fusce gravida id magna dapibus facilisis. Donec ac arcu pulvinar massa placerat ultricies et a libero.",
+        "location": {
+            "address": "",
+            "postalCode": "00000",
+            "city": "Ciudad de México",
+            "countryCode": "MX",
+            "region": "México"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "LinkedIn",
+                "url": "https://mx.linkedin.com/"
+            },
+            {
+                "network": "GitHub",
+                "username": "GitHub",
+                "url": "https://github.com/"
+            },
+            {
+                "network": "X",
+                "username": "X",
+                "url": "https://x.com/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Lorem Ipsum",
+            "position": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "url": "hhttps://www.lipsum.com/",
+            "startDate": "2020-10-20",
+            "endDate": null,
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus enim magna, malesuada eu commodo et, sagittis ac dolor. Pellentesque enim ligula, pellentesque ut tortor eu, congue blandit leo.",
+            "highlights": ["help@lipsum.com"]
+        },
+        {
+            "name": "Lorem Ipsum",
+            "position": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "url": "hhttps://www.lipsum.com/",
+            "startDate": "2010-10-10",
+            "endDate": "2020-10-10",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus enim magna, malesuada eu commodo et, sagittis ac dolor. Pellentesque enim ligula, pellentesque ut tortor eu, congue blandit leo. Sed eleifend molestie commodo.",
+            "highlights": ["help@lipsum.com"]
+        },
+        {
+            "name": "Lorem Ipsum",
+            "position": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "url": "hhttps://www.lipsum.com/",
+            "startDate": "2000-10-20",
+            "endDate": "2020-10-10",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus enim magna, malesuada eu commodo et, sagittis ac dolor. Pellentesque enim ligula, pellentesque ut tortor eu, congue blandit leo. Fusce vel lorem nec mauris facilisis laoreet. Sed enim nulla, pulvinar sodales sollicitudin sit amet, porttitor non nisi.",
+            "highlights": ["help@lipsum.com"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "url": "https://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description…",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Universitat",
+            "url": "https://www.universidad.edu",
+            "area": "Ingeniero de Software",
+            "studyType": "Bachelor",
+            "startDate": "2003-01-01",
+            "endDate": "2009-01-01",
+            "score": "4.0",
+            "courses": ["DB1101 - Basic SQL"]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Certificate",
+            "date": "2021-11-07",
+            "issuer": "Company",
+            "url": "https://certificate.com"
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "url": "https://publication.com",
+            "summary": "Description…"
+        }
+    ],
+    "skills": [
+        {
+            "name": "HTML",
+            "level": "Master",
+            "keywords": ["Desarrollo Web", "Frontend"]
+        },
+        {
+            "name": "CSS",
+            "level": "Master",
+            "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+        },
+        {
+            "name": "JavaScript",
+            "level": "Master",
+            "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+        },
+        {
+            "name": "Tailwind",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "CSS Framework",
+                "Diseño Responsive"
+            ]
+        },
+        {
+            "name": "TypeScript",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend",
+                "JavaScript Superset"
+            ]
+        },
+        {
+            "name": "Node",
+            "level": "Avanzado",
+            "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+        },
+        {
+            "name": "MySQL",
+            "level": "Avanzado",
+            "keywords": [
+                "Bases de Datos",
+                "SQL",
+                "Almacenamiento de Datos",
+                "Backend"
+            ]
+        },
+        {
+            "name": "Git",
+            "level": "Avanzado",
+            "keywords": [
+                "Control de Versiones",
+                "Colaboración",
+                "Código Fuente"
+            ]
+        },
+        {
+            "name": "GitHub",
+            "level": "Avanzado",
+            "keywords": [
+                "Control de Versiones",
+                "Colaboración",
+                "Código Fuente",
+                "Git"
+            ]
+        },
+        {
+            "name": "Next.js",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "React Framework",
+                "SSR",
+                "Static Generation"
+            ]
+        },
+        {
+            "name": "React",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "JavaScript Library",
+                "UI"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Advanced"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": ["Ferrets", "Unicorns"]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference…"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Lorem Ipsum",
+            "isActive": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "highlights": ["Lorem ipsum ", "lorem facilisis laoreet."],
+            "url": "https://www.lipsum.com/"
+        },
+        {
+            "name": "Lorem Ipsum",
+            "isActive": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus enim magna.",
+            "highlights": ["Lorem ipsum ", "lorem facilisis laoreet", "lorem laoreet."],
+            "url": "https://www.lipsum.com/"
+        },
+        {
+            "name": "Lorem Ipsum",
+            "isActive": false,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus enim magna, malesuada eu commodo et, sagittis ac dolor.",
+            "highlights": ["Lorem ipsum ", "lorem facilisis laoreet."],
+            "url": "https://www.lipsum.com/"
+        },
+        {
+            "name": "Lorem Ipsum",
+            "isActive": true,
+            "description": "Lorem ipsum dolor sit amet, consectetur.",
+            "highlights": ["Lorem ipsum ", "lorem facilisis laoreet", "lorem laoreet", "Lorem"],
+            "url": "https://www.lipsum.com/"
+        },
+        {
+            "name": "Lorem Ipsum",
+            "isActive": null,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus enim magna, malesuada eu commodo et, sagittis ac dolor.",
+            "highlights": ["Lorem ipsum ", "lorem facilisis laoreet."],
+            "url": "https://www.lipsum.com/"
+        },
+        {
+            "name": "Lorem Ipsum",
+            "isActive": false,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus enim magna, malesuada eu commodo et.",
+            "highlights": ["Lorem ipsum ", "lorem facilisis laoreet", "lorem laoreet."],
+            "url": "https://www.lipsum.com/"
+        }
+    ]
+}
