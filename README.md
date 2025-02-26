@@ -7,12 +7,12 @@ Un template de CV minimalista basado en Astro y estructurado con JSON.
 ![JSON](https://img.shields.io/badge/Data-JSON-green)
 
 ### Demo navegador Pc
-![Preview](./demo.png)
+![Preview](./demo.webp)
 
 <br>
 
 ### Demo Dispositivo Móvil
-![Preview](./demo2.png)
+![Preview](./demo2.webp)
 
 ## 📌 Características  
 - ✅ Diseño limpio y minimalista.  
