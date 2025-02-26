@@ -11,8 +11,13 @@ Un template de CV minimalista basado en Astro y estructurado con JSON.
 
 <br>
 
-### Demo Dispositivo Móvil
+### Demo navegador Pc
 ![Preview](./demo2.webp)
+
+<br>
+
+### Demo Dispositivo Móvil
+![Preview](./demo3.webp)
 
 ## 📌 Características  
 - ✅ Diseño limpio y minimalista.  
