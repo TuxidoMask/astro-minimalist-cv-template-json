@@ -9,18 +9,18 @@ import GitHub from "@/icons/GitHub.astro";
 import WorldMap from "@/icons/WorldMap.astro";
 
 const { name, label, image, location, profiles, phone, email } = basics;
-const { city, region, countryCode } = location;
+const { city, region } = location;
 
 const SOCIAL_ICONS: Record<string, any> = {
     GitHub,
     LinkedIn,
-    X
-}
+    X,
+};
 
-const linkedInfo = profiles.find(({ network }) => network === "LinkedIn")
-const linkedUrl = linkedInfo?.url
+const linkedInfo = profiles.find(({ network }) => network === "LinkedIn");
+const linkedUrl = linkedInfo?.url;
 
-const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
+const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
 ---
 
 <Section>
@@ -30,7 +30,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
             <h2>{label}</h2>
 
             <span>
-                <WorldMap/>
+                <WorldMap />
                 {city}, {region}
             </span>
 
@@ -70,7 +70,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
                 <!-- Iconos Redes Sociales -->
                 {
                     profiles.map(({ network, url, username }) => {
-                        const Icon = SOCIAL_ICONS[network]
+                        const Icon = SOCIAL_ICONS[network];
 
                         return (
                             <a
@@ -81,7 +81,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
                             >
                                 <Icon />
                             </a>
-                        )
+                        );
                     })
                 }
                 <!-- Fin Iconos Redes Sociales -->
@@ -156,11 +156,38 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
         height: 32px;
         width: 32px;
         border-radius: 6px;
-        transition: all .3s ease;
+        transition: all 0.3s ease;
     }
 
     footer a:hover {
         background: #eee;
         border: 1px solid #ddd;
+    }
+
+    @media (width <= 700px) {
+        .container {
+            flex-direction: column-reverse;
+        }
+
+        .info {
+            justify-content: center;
+            align-items: center;
+            padding-right: 0;
+            text-align: center;
+        }
+
+        figure {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        h2 {
+            text-wrap: balance;
+        }
+
+        figure {
+            margin: 0 auto;
+        }
     }
 </style>

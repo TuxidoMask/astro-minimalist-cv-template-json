@@ -74,12 +74,12 @@
     ],
     "education": [
         {
-            "institution": "Universitat",
+            "institution": "Universidad de Lorem Ipsum",
             "url": "https://www.universidad.edu",
-            "area": "Ingeniero de Software",
+            "area": "Ingeniero Lorem Ipsum",
             "studyType": "Bachelor",
-            "startDate": "2003-01-01",
-            "endDate": "2009-01-01",
+            "startDate": "2000-01-01",
+            "endDate": "2025-01-01",
             "score": "4.0",
             "courses": ["DB1101 - Basic SQL"]
         }
@@ -111,54 +111,14 @@
     ],
     "skills": [
         {
-            "name": "HTML",
-            "level": "Master",
-            "keywords": ["Desarrollo Web", "Frontend"]
-        },
-        {
             "name": "CSS",
             "level": "Master",
             "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
         },
         {
-            "name": "JavaScript",
+            "name": "Flutter",
             "level": "Master",
-            "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
-        },
-        {
-            "name": "Tailwind",
-            "level": "Avanzado",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend",
-                "CSS Framework",
-                "Diseño Responsive"
-            ]
-        },
-        {
-            "name": "TypeScript",
-            "level": "Avanzado",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend",
-                "Backend",
-                "JavaScript Superset"
-            ]
-        },
-        {
-            "name": "Node",
-            "level": "Avanzado",
-            "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
-        },
-        {
-            "name": "MySQL",
-            "level": "Avanzado",
-            "keywords": [
-                "Bases de Datos",
-                "SQL",
-                "Almacenamiento de Datos",
-                "Backend"
-            ]
+            "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
         },
         {
             "name": "Git",
@@ -180,6 +140,31 @@
             ]
         },
         {
+            "name": "HTML",
+            "level": "Master",
+            "keywords": ["Desarrollo Web", "Frontend"]
+        },
+        {
+            "name": "JavaScript",
+            "level": "Master",
+            "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+        },
+        {
+            "name": "Kotlin",
+            "level": "Master",
+            "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+        },
+        {
+            "name": "MySQL",
+            "level": "Avanzado",
+            "keywords": [
+                "Bases de Datos",
+                "SQL",
+                "Almacenamiento de Datos",
+                "Backend"
+            ]
+        },
+        {
             "name": "Next.js",
             "level": "Avanzado",
             "keywords": [
@@ -191,6 +176,11 @@
             ]
         },
         {
+            "name": "Node",
+            "level": "Avanzado",
+            "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+        },
+        {
             "name": "React",
             "level": "Avanzado",
             "keywords": [
@@ -198,6 +188,46 @@
                 "Frontend",
                 "JavaScript Library",
                 "UI"
+            ]
+        },
+        {
+            "name": "Swift",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "JavaScript Library",
+                "UI"
+            ]
+        },
+        {
+            "name": "SwiftUI",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "JavaScript Library",
+                "UI"
+            ]
+        },
+        {
+            "name": "Tailwind",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "CSS Framework",
+                "Diseño Responsive"
+            ]
+        },
+        {
+            "name": "TypeScript",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend",
+                "JavaScript Superset"
             ]
         }
     ],
@@ -229,14 +259,16 @@
             "isActive": true,
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
             "highlights": ["Lorem ipsum ", "lorem facilisis laoreet."],
-            "url": "https://www.lipsum.com/"
+            "url": "https://www.lipsum.com/",
+            "github":"https://github.com/"
         },
         {
             "name": "Lorem Ipsum",
             "isActive": true,
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus enim magna.",
             "highlights": ["Lorem ipsum ", "lorem facilisis laoreet", "lorem laoreet."],
-            "url": "https://www.lipsum.com/"
+            "url": "https://www.lipsum.com/",
+            "github":"https://github.com/"
         },
         {
             "name": "Lorem Ipsum",
@@ -264,7 +296,8 @@
             "isActive": false,
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus enim magna, malesuada eu commodo et.",
             "highlights": ["Lorem ipsum ", "lorem facilisis laoreet", "lorem laoreet."],
-            "url": "https://www.lipsum.com/"
+            "url": "https://www.lipsum.com/",
+            "github":"https://github.com/"
         }
     ]
 }
