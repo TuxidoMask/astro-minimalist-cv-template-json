@@ -116,6 +116,11 @@
             "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
         },
         {
+            "name": "Scss",
+            "level": "Master",
+            "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+        },
+        {
             "name": "Flutter",
             "level": "Master",
             "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
@@ -141,6 +146,16 @@
         },
         {
             "name": "HTML",
+            "level": "Master",
+            "keywords": ["Desarrollo Web", "Frontend"]
+        },
+        {
+            "name": "Python",
+            "level": "Master",
+            "keywords": ["Desarrollo Web", "Frontend"]
+        },
+        {
+            "name": "Php",
             "level": "Master",
             "keywords": ["Desarrollo Web", "Frontend"]
         },
